@@ -1,2 +1,1 @@
-# Deep_Learning
-Deep Learning Study
+Machine Learning, Deep Learning Study
